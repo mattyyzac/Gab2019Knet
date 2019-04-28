@@ -1,0 +1,13 @@
+{
+  "Settings": {
+    "BlobSettings": {
+      "StorageConnectionString": "...請修改為您的 Azure Blob Storage 連線字串...",
+      "ContainerName": "linebot",
+      "BlobEndpoint": "...請修改為您的 Azure Blob Storage Endpoint..."
+    },
+    "ComputerVision": {
+      "OcrApi": "...請修改為您的 Computer Vision OCR API 網址...",
+      "ApiKey": "...請修改為您的 Computer Vision OCR API KEY..."
+    }
+  }
+}

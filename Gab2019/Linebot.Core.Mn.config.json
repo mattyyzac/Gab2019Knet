@@ -1,0 +1,9 @@
+{
+  "replyApi":  "https://api.line.me/v2/bot/message/reply",
+  "pushApi": "https://api.line.me/v2/bot/message/push",
+  "multicastApi": "https://api.line.me/v2/bot/message/multicast",
+  "contentApi": "https://api.line.me/v2/bot/message/__[messageId]__/content",
+  "accessToken": "...請修改為您的 Linebot Access Token...",
+  "channelSecret":  "...請修改為您的 Linebot Secret Key...",
+  "protectedKey": ""
+}
